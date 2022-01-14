@@ -105,3 +105,4 @@ source $ZSH/oh-my-zsh.sh
 # Accounting
 alias accountio="source ~/Projects/accounting/bin/activate"
 alias accountox="deactivate"
+neofetch
